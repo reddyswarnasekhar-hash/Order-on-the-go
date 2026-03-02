@@ -1,6 +1,18 @@
-# 🍽️ Order on the go
+# 🍽️ Order On The Go
 
-## 📌 Overview
+## 🎓 Internship Project
+This project was developed as part of the **SmartInternz Long Term Virtual Internship Program**.
+Team ID: LTVIP2026TMIDS61893
+Team member: K Swarna Sekhar  
+
+---
+
+## 📌 Project Link
+🔗 https://drive.google.com/file/d/1_W0x7BCtGJUx5DLuH-adR3boiN4_brKO/view?usp=drivesdk
+
+---
+
+## 📖 Overview
 **SB Foods** is a modern digital food ordering platform designed to revolutionize how users browse, select, and order meals online. It delivers a seamless, intuitive, and efficient experience for both casual diners and food enthusiasts, making food ordering fast, transparent, and convenient.
 
 With detailed dish descriptions, customer reviews, pricing, and promotions, SB Foods ensures users can make informed decisions before placing orders.
@@ -30,82 +42,75 @@ With detailed dish descriptions, customer reviews, pricing, and promotions, SB F
 
 ## 🌙 Use Case Scenario — Late-Night Craving Resolution
 
-**Lisa**, a college student working late, gets hungry at midnight. Instead of cooking or going out:
+**Scenario:**  
+Lisa, a college student working late at night, gets hungry but doesn’t want to cook or go out. Using SB Foods, she:
 
-1. She opens SB Foods.
-2. Navigates to *Late-Night Delivery*.
-3. Browses menus and reviews.
-4. Selects chicken noodle soup + garlic bread.
-5. Confirms delivery details.
-6. Places the order.
-7. Receives instant confirmation and ETA.
-8. Food arrives promptly.
+1. Opens the app
+2. Navigates to late-night delivery options
+3. Browses menus and reviews
+4. Selects her favorite meal
+5. Confirms address & payment
+6. Places the order
+7. Receives instant confirmation
+8. Gets her food delivered promptly
 
-**Result:** Lisa stays productive while SB Foods handles her meal needs effortlessly.
+**Result:**  
+SB Foods provides a fast, reliable, and convenient food ordering experience even during late hours.
 
 ---
 
 ## 🏗️ Technical Architecture
 
 ### Frontend
-Includes user-facing components:
-- Authentication
-- Product listing
-- Cart system
-- Profile management
-- Admin dashboard interface
+- User Authentication
+- Product Listing
+- Cart System
+- Profile Management
+- Admin Dashboard UI
 
 ### Backend
-Handles application logic and APIs:
 - User APIs
-- Order APIs
 - Product APIs
-- Admin authentication
-- Admin dashboard services
+- Order APIs
+- Admin Authentication
+- Dashboard Services
 
 ### Database
-Stores structured collections for:
+Collections:
 - Users
 - Admins
 - Products
 - Orders
-- Cart data
+- Cart
 
 ---
 
 ## ⚙️ System Flow
-User → Frontend UI → Backend API → Database ↓ Order Processing ↓ Confirmation
+User → Frontend → Backend API → Database ↓ Order Processing ↓ Confirmation
 ---
 
-## 🎯 Goals
-- Provide a frictionless ordering experience
-- Reduce ordering time
-- Offer transparent food information
-- Support late-night and real-time ordering
-- Scale for multiple vendors and users
+## 🎯 Objectives
+- Simplify food ordering experience
+- Reduce waiting time
+- Provide transparent food information
+- Enable real-time ordering
+- Support scalability for multiple users
 
 ---
 
 ## 📈 Future Enhancements
-- Real-time delivery tracking map
+- Real-time delivery tracking
 - AI-based food recommendations
-- Loyalty & rewards system
-- Multi-restaurant cart
-- Voice ordering
-- Dark mode UI
+- Rewards & loyalty system
+- Multi-restaurant ordering
+- Voice ordering support
+- Dark mode interface
 
 ---
 
 ## 🧑‍💻 Installation
 ```bash
-git clone
+git clone 
 cd sb-foods
 npm install
 npm start
-## 🎓 Internship Project
-This project was developed as part of the **SmartInternz Long Term Virtual Internship Program**.
-Team ID: LTVIP2026TMIDS61893
-Team member: K Swarna Sekhar
-## 🎬 Project Demo Video
-Watch the project demonstration here:  
-🔗 https://drive.google.com/file/d/1_W0x7BCtGJUx5DLuH-adR3boiN4_brKO/view?usp=drivesdk
