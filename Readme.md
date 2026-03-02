@@ -106,3 +106,6 @@ npm start
 This project was developed as part of the **SmartInternz Long Term Virtual Internship Program**.
 Team ID: LTVIP2026TMIDS61893
 Team member: K Swarna Sekhar
+## 🎬 Project Demo Video
+Watch the project demonstration here:  
+🔗 https://drive.google.com/file/d/1_W0x7BCtGJUx5DLuH-adR3boiN4_brKO/view?usp=drivesdk
